@@ -1,0 +1,128 @@
+[
+    { 
+        "id": 1, 
+        "image": "https://m.media-amazon.com/images/I/71RD+pEvvlL._SL1500_.jpg", 
+        "title": "Self Love Poetry: For Thinkers & Feelers", 
+        "description": "Readers have called her work “life changing,” “pandemic medicine,” and “part of my daily ritual.” Oprah Magazine and the Today Show have featured her work for its timely, uplifting wisdom. Now, Self Love Philosopher Melody Godfred shares her first poetry book, Self Love Poetry: For Thinkers & Feelers, a collection of 200 thought-provoking and heart-opening self love poems",
+        "category": "POETRY"
+    }, 
+    {
+        "id": 2, 
+        "image": "https://m.media-amazon.com/images/I/81izz-Cb3zL._SL1500_.jpg", 
+        "title": "Black Girl, Call Home", 
+        "description": "From spoken word poet Jasmine Mans comes an unforgettable poetry collection about race, feminism, and queer identity. With echoes of Gwendolyn Brooks and Sonia Sanchez, Mans writes to call herself—and us—home. Each poem explores what it means to be a daughter of Newark, and America—and the painful, joyous path to adulthood as a young, queer Black woman.",
+        "category": "POETRY"
+    },
+    {
+        "id": 3, 
+        "image": "https://m.media-amazon.com/images/I/81vV0CVddRL._SL1500_.jpg", 
+        "title": "Never Whistle at Night", 
+        "description": "Many Indigenous people believe that one should never whistle at night. This belief takes many forms: for instance, Native Hawaiians believe it summons the Hukai’po, the spirits of ancient warriors, and Native Mexicans say it calls Lechuza, a witch that can transform into an owl. But what all these legends hold in common is the certainty that whistling at night can cause evil spirits to appear—and even follow you home.",
+        "category": "HORROR"
+    },
+    {
+        "id": 3, 
+        "image": "https://m.media-amazon.com/images/I/91Txxldo++L._SL1500_.jpg", 
+        "title": "Intercepts: A horror novel", 
+        "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
+        "category": "HORROR"
+    },
+    {
+        "id": 3, 
+        "image": "https://m.media-amazon.com/images/I/71aXWhr9tTL._SL1500_.jpg", 
+        "title": "Twisted Love", 
+        "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
+        "category": "ROMANCE"
+    },
+    {
+        "id": 3, 
+        "image": "https://m.media-amazon.com/images/I/71l90Ht3RnL._SL1500_.jpg", 
+        "title": "The Cactus", 
+        "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
+        "category": "ROMANCE"
+    },
+    {
+        "id": 3, 
+        "image": "https://m.media-amazon.com/images/I/819dFAnCg6L._SL1500_.jpg", 
+        "title": "The Christmas Competition", 
+        "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
+        "category": "ADVENTURE"
+    },
+    {
+        "id": 3, 
+        "image": "https://m.media-amazon.com/images/I/81h0eAszMEL._SL1500_.jpg", 
+        "title": "The Christmas Competition", 
+        "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
+        "category": "ADVENTURE"
+    },
+    {
+        "id": 3, 
+        "image": "https://m.media-amazon.com/images/I/81JfFNg-UfL._SL1500_.jpg", 
+        "title": "The Christmas Competition", 
+        "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
+        "category": "ADVENTURE"
+    },
+    {
+        "id": 3, 
+        "image": "https://m.media-amazon.com/images/I/9136-HqmO+L._SL1500_.jpg", 
+        "title": "The Christmas Competition", 
+        "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
+        "category": "ADVENTURE"
+    },
+    {
+        "id": 3, 
+        "image": "https://m.media-amazon.com/images/I/81E93DlDIxL._SL1500_.jpg", 
+        "title": "The Christmas Competition", 
+        "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
+        "category": "ADVENTURE"
+    },
+    {
+        "id": 3, 
+        "image": "https://m.media-amazon.com/images/I/81fH-TQF4NL._SL1500_.jpg", 
+        "title": "The Christmas Competition", 
+        "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
+        "category": "POEM"
+    },
+    {
+        "id": 3, 
+        "image": "https://m.media-amazon.com/images/I/81x1pB+Ap3L._SL1500_.jpg", 
+        "title": "The Christmas Competition", 
+        "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
+        "category": "POEM"
+    },
+    {
+        "id": 3, 
+        "image": "https://m.media-amazon.com/images/I/714s4HnSvOL._SL1200_.jpg", 
+        "title": "The Christmas Competition", 
+        "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
+        "category": "POEM"
+    },
+    {
+        "id": 3, 
+        "image": "https://m.media-amazon.com/images/I/81FS3wyevDL._SL1500_.jpg", 
+        "title": "The Christmas Competition", 
+        "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
+        "category": "POEM"
+    },
+    {
+        "id": 3, 
+        "image": "https://m.media-amazon.com/images/I/91F6NVlGGjL._SL1500_.jpg", 
+        "title": "The Christmas Competition", 
+        "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
+        "category": "FICTION"
+    },
+    {
+        "id": 3, 
+        "image": "https://m.media-amazon.com/images/I/81GporrmUQL._SL1500_.jpg", 
+        "title": "The Christmas Competition", 
+        "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
+        "category": "FICTION"
+    },
+    {
+        "id": 3, 
+        "image": "https://m.media-amazon.com/images/I/91Sy3S-198L._SL1500_.jpg", 
+        "title": "The Christmas Competition", 
+        "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
+        "category": "FICTION"
+    }
+]
