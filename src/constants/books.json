@@ -4,125 +4,159 @@
         "image": "https://m.media-amazon.com/images/I/71RD+pEvvlL._SL1500_.jpg", 
         "title": "Self Love Poetry: For Thinkers & Feelers", 
         "description": "Readers have called her work “life changing,” “pandemic medicine,” and “part of my daily ritual.” Oprah Magazine and the Today Show have featured her work for its timely, uplifting wisdom. Now, Self Love Philosopher Melody Godfred shares her first poetry book, Self Love Poetry: For Thinkers & Feelers, a collection of 200 thought-provoking and heart-opening self love poems",
-        "category": "POETRY"
+        "category": "POETRY",
+        "author": "James McBride",
+        "year": "2023"
     }, 
     {
         "id": 2, 
         "image": "https://m.media-amazon.com/images/I/81izz-Cb3zL._SL1500_.jpg", 
         "title": "Black Girl, Call Home", 
         "description": "From spoken word poet Jasmine Mans comes an unforgettable poetry collection about race, feminism, and queer identity. With echoes of Gwendolyn Brooks and Sonia Sanchez, Mans writes to call herself—and us—home. Each poem explores what it means to be a daughter of Newark, and America—and the painful, joyous path to adulthood as a young, queer Black woman.",
-        "category": "POETRY"
+        "category": "POETRY",
+        "author": "Jasmine Mans",
+        "year": "2023"
     },
     {
         "id": 3, 
         "image": "https://m.media-amazon.com/images/I/81vV0CVddRL._SL1500_.jpg", 
         "title": "Never Whistle at Night", 
         "description": "Many Indigenous people believe that one should never whistle at night. This belief takes many forms: for instance, Native Hawaiians believe it summons the Hukai’po, the spirits of ancient warriors, and Native Mexicans say it calls Lechuza, a witch that can transform into an owl. But what all these legends hold in common is the certainty that whistling at night can cause evil spirits to appear—and even follow you home.",
-        "category": "HORROR"
+        "category": "HORROR",
+        "author": "Theodore C. Van Alst Jr.",
+        "year": "2022"
     },
     {
-        "id": 3, 
+        "id": 4, 
         "image": "https://m.media-amazon.com/images/I/91Txxldo++L._SL1500_.jpg", 
-        "title": "Intercepts: A horror novel", 
+        "title": "A Haunting in the ARCTIC", 
         "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
-        "category": "HORROR"
+        "category": "HORROR",
+        "author": "C.J Cooke",
+        "year": "2022"
     },
     {
-        "id": 3, 
+        "id": 5, 
         "image": "https://m.media-amazon.com/images/I/71aXWhr9tTL._SL1500_.jpg", 
         "title": "Twisted Love", 
         "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
-        "category": "ROMANCE"
+        "category": "ROMANCE",
+        "author": "Ana Huang",
+        "year": "2018"
     },
     {
-        "id": 3, 
+        "id": 6, 
         "image": "https://m.media-amazon.com/images/I/71l90Ht3RnL._SL1500_.jpg", 
         "title": "The Cactus", 
         "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
-        "category": "ROMANCE"
+        "category": "ROMANCE",
+        "author": "Sarah Haywood"
     },
     {
-        "id": 3, 
+        "id": 7, 
         "image": "https://m.media-amazon.com/images/I/819dFAnCg6L._SL1500_.jpg", 
         "title": "The Christmas Competition", 
         "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
-        "category": "ADVENTURE"
+        "category": "ADVENTURE",
+        "author": "Mel Taylor-Bessent",
+        "year": "2020"
     },
     {
-        "id": 3, 
+        "id": 8, 
         "image": "https://m.media-amazon.com/images/I/81h0eAszMEL._SL1500_.jpg", 
-        "title": "The Christmas Competition", 
+        "title": "The Twenty-Ninth Day", 
         "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
-        "category": "ADVENTURE"
+        "category": "ADVENTURE",
+        "author": "Alex Messenger",
+        "year": "2019"
     },
     {
-        "id": 3, 
+        "id": 9, 
         "image": "https://m.media-amazon.com/images/I/81JfFNg-UfL._SL1500_.jpg", 
-        "title": "The Christmas Competition", 
+        "title": "The Coworker", 
         "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
-        "category": "ADVENTURE"
+        "category": "ADVENTURE",
+        "author": "Freida McFadden",
+        "year": "2023"
     },
     {
-        "id": 3, 
+        "id": 10, 
         "image": "https://m.media-amazon.com/images/I/9136-HqmO+L._SL1500_.jpg", 
-        "title": "The Christmas Competition", 
+        "title": "The Stillwater Girls", 
         "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
-        "category": "ADVENTURE"
+        "category": "ADVENTURE",
+        "author": "Minka Kent",
+        "year": "2016"
     },
     {
-        "id": 3, 
+        "id": 11, 
         "image": "https://m.media-amazon.com/images/I/81E93DlDIxL._SL1500_.jpg", 
-        "title": "The Christmas Competition", 
+        "title": "The Last Thing He Told Me", 
         "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
-        "category": "ADVENTURE"
+        "category": "ADVENTURE",
+        "author": "Laura Dave",
+        "year": "2022"
     },
     {
-        "id": 3, 
+        "id": 12, 
         "image": "https://m.media-amazon.com/images/I/81fH-TQF4NL._SL1500_.jpg", 
-        "title": "The Christmas Competition", 
+        "title": "The Hill We Climb", 
         "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
-        "category": "POEM"
+        "category": "POEM",
+        "author": "Oprah Winfrey",
+        "year": "2020"
     },
     {
-        "id": 3, 
+        "id": 13, 
         "image": "https://m.media-amazon.com/images/I/81x1pB+Ap3L._SL1500_.jpg", 
-        "title": "The Christmas Competition", 
+        "title": "How to Buy a Planet", 
         "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
-        "category": "POEM"
+        "category": "POEM",
+        "author": "D.A Holdsworth",
+        "year": "2020"
     },
     {
-        "id": 3, 
+        "id": 14, 
         "image": "https://m.media-amazon.com/images/I/714s4HnSvOL._SL1200_.jpg", 
-        "title": "The Christmas Competition", 
+        "title": "America Satire", 
         "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
-        "category": "POEM"
+        "category": "POEM",
+        "author": "Dorothy Parker & 26 Others"
     },
     {
-        "id": 3, 
+        "id": 15, 
         "image": "https://m.media-amazon.com/images/I/81FS3wyevDL._SL1500_.jpg", 
-        "title": "The Christmas Competition", 
+        "title": "The Heaven & Earth Grocery Store", 
         "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
-        "category": "POEM"
+        "category": "POEM",
+        "author": "James McBride",
+        "year": "2023"
     },
     {
-        "id": 3, 
+        "id": 16, 
         "image": "https://m.media-amazon.com/images/I/91F6NVlGGjL._SL1500_.jpg", 
-        "title": "The Christmas Competition", 
+        "title": "Trust - Pulitzer Prize Winner", 
         "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
-        "category": "FICTION"
+        "category": "FICTION",
+        "author": "Hernan Diaz",
+        "year": "2021"
     },
     {
-        "id": 3, 
+        "id": 17, 
         "image": "https://m.media-amazon.com/images/I/81GporrmUQL._SL1500_.jpg", 
-        "title": "The Christmas Competition", 
-        "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
-        "category": "FICTION"
+        "title": "Mad Money", 
+        "description": "Olivia McAfee knows what it feels like to start over. Her picture-perfect life—living in Boston, married to a brilliant cardiothoracic surgeon, raising their beautiful son, Asher—was upended when her husband revealed a darker side. She never imagined that she would end up back in her sleepy New Hampshire hometown, living in the house she grew up in and taking over her father’s beekeeping business.",
+        "category": "FICTION",
+        "author": "Jodi Picoult & 1 other",
+        "year": "2022"
     },
     {
-        "id": 3, 
+        "id": 18, 
         "image": "https://m.media-amazon.com/images/I/91Sy3S-198L._SL1500_.jpg", 
-        "title": "The Christmas Competition", 
-        "description": "Joe works at a facility that performs human experimentation.His work just followed him home.The government wanted to unlock hidden abilities in the human mind.They put subjects in extreme sensory deprivation.All the test subjects went violently insane.But the research continued.Today it has been perfected.Almost perfected.",
-        "category": "FICTION"
+        "title": "The Lost Bookshop", 
+        "description": "‘The thing about books,’ she said ‘is that they help you to imagine a life bigger and better than you could ever dream of.’ On a quiet street in Dublin, a lost bookshop is waiting to be found…For too long, Opaline, Martha and Henry have been the side characters in their own lives.But when a vanishing bookshop casts its spell, these three unsuspecting strangers will discover that their own stories are every bit as extraordinary as the ones found in the pages of their beloved books. And by unlocking the secrets of the shelves, they find themselves transported to a world of wonder… where nothing is as it seems.",
+        "category": "FICTION",
+        "author": "Evie Woods",
+        "year": "2020"
     }
 ]
