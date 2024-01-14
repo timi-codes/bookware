@@ -35,22 +35,20 @@ export interface CardProps {
 
 const Card: React.FC<CardProps> = ({ data }) =>{
     return (
-        <div className="max-w-64 w-full shadow-card relative justify-self-start	mb-6	p-3 bg-white">
+        <div className="max-w-64 w-full shadow-card relative justify-self-start	mb-6 p-3 bg-white cursor-pointer">
             <div 
-                className="w-full aspect-[2.5/4] bg-cover bg-center" 
+                className="w-full aspect-[2.5/4] bg-cover bg-center cursor-pointer" 
                 style={{ backgroundImage: `url(${data.image})`}} 
                 title={data.title}
             />
-            <div className="bg-black bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-80 p-4 flex flex-col justify-between absolute top-0 bottom-0 left-0 right-0">
+            <div className="transition-opacity ease-in duration-300 opacity-0 hover:opacity-100 bg-black bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-80 p-4 flex flex-col justify-between absolute top-0 bottom-0 left-0 right-0">
                 <div>
-                    <p className="text-sm text-gray-600 flex items-center">
-                        <svg className="fill-current text-gray-500 w-3 h-3 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-                            <path d="M4 8V6a6 6 0 1 1 12 0v2h1a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-8c0-1.1.9-2 2-2h1zm5 6.73V17h2v-2.27a2 2 0 1 0-2 0zM7 6v2h6V6a3 3 0 0 0-6 0z" />
-                        </svg>
-                        {data.category}
+                    <p className="text-xs text-amber-600 font-medium flex items-start  ">
+                        
+                        Fiction
                     </p>
-                    <div className="text-white font-bold text-md mb-2">{data.title}</div>
-                    <p className="text-white text-xs line-clamp-6 leading-5 opacity-80">{data.description}</p>
+                    <div className="text-white font-bold text-md mb-2 opacity-95 mt-4">{data.title}</div>
+                    <p className="text-white text-xs line-clamp-6 leading-4 opacity-80">{data.description}</p>
                 </div>
                 <div className="flex items-center">
                     <div className="w-6 h-6 rounded-full mr-2 relative overflow-hidden	">
