@@ -1,6 +1,7 @@
 import React, { FC } from 'react'
 import { Category } from '../card'
 import Fiction from './fiction'
+import Horror from './horror'
 
 export interface SvgIconProps {
     width?: number
@@ -14,10 +15,12 @@ export interface SvgIconProps {
 export interface SvgIcon extends FC<SvgIconProps> {}
 
 const GenreIcon = ({ name, ...rest}: { name: Category } & SvgIconProps)=>{
-    switch(name){
-        case Category.FICTION:
-            return <Fiction {...rest}/>
-        default: return null
-    }
+    return (
+        <p className="text-xs text-amber-600 font-medium flex items-start">
+            { name === Category.HORROR && <Horror {...rest}/>}
+            { name === Category.FICTION && <Fiction {...rest}/>}
+            {name.toString()}
+        </p>
+    )
 }
 export default GenreIcon

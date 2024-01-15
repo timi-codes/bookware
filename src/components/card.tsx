@@ -1,15 +1,17 @@
 import React from 'react'
 import Image from 'next/image'
 import avatar from 'gradient-avatar'
+import Fiction from './icons/fiction';
+import GenreIcon from './icons';
 
 export enum Category {
-    HORROR,
-    ROMANCE,
-    POETRY,
-    ADVENTURE,
-    THRILLERS,
-    SATIRE,
-    FICTION
+    HORROR = "Horror",
+    ROMANCE = "Romance",
+    POETRY = "Poetry",
+    ADVENTURE = "Adventure",
+    THRILLERS = "Thrillers",
+    SATIRE = "Sarire",
+    FICTION = "Fiction"
 }
 
 type CategoryKey = keyof Omit<typeof Category, 'parse'>;
@@ -43,10 +45,7 @@ const Card: React.FC<CardProps> = ({ data }) =>{
             />
             <div className="transition-opacity ease-in duration-300 opacity-0 hover:opacity-100 bg-black bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-80 p-4 flex flex-col justify-between absolute top-0 bottom-0 left-0 right-0">
                 <div>
-                    <p className="text-xs text-amber-600 font-medium flex items-start  ">
-                        
-                        Fiction
-                    </p>
+                    <GenreIcon name={data.category}/>
                     <div className="text-white font-bold text-md mb-2 opacity-95 mt-4">{data.title}</div>
                     <p className="text-white text-xs line-clamp-6 leading-4 opacity-80">{data.description}</p>
                 </div>
