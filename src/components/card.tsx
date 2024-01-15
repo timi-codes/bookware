@@ -10,7 +10,7 @@ export enum Category {
     POETRY = "Poetry",
     ADVENTURE = "Adventure",
     THRILLERS = "Thrillers",
-    SATIRE = "Sarire",
+    SATIRE = "Satire",
     FICTION = "Fiction"
 }
 
@@ -63,9 +63,6 @@ const Card: React.FC<CardProps> = ({ data }) =>{
                     </div>
                 </div>
             </div>
-            {/* <div className='absolute bg-black bottom-10'>
-                <p className='text-xs text-white'>FICTION</p>
-            </div> */}
         </div>
     )
 }
